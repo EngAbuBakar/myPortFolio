@@ -21,6 +21,13 @@
   flex: 1;
 }
 
+.experience-card {
+  background-color: red;
+  border-radius: 8px; /* Optional: Add rounded corners */
+  padding: 20px; /* Optional: Add padding for spacing inside the card */
+  color: black; /* Ensure text is readable on red background */
+}
+
 /* Media Query */
 
 @media (max-width: 1380px) {
