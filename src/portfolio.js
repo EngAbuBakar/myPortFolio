@@ -159,7 +159,7 @@ const workExperiences = {
     {
       role: "Software Engineer",
       company: "Softech Systems Pvt Ltd",
-      companylogo: require("./assets/images/softech system.jpeg"),
+      companylogo: require("./assets/images/softech system.jpg"),
       date: "September 2014 – Present",
       desc: "Automate deployment workflows for both front-end and back-end applications.",
       descBullets: [
