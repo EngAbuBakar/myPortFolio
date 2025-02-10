@@ -184,7 +184,7 @@ const workExperiences = {
     {
       role: "Software Engineer Intern",
       company: "Contour Software",
-      companylogo: require("./assets/images/contour.jpg"),
+      companylogo: require("./assets/images/contourlog.png"),
       date: "Jan 2021 – May 2022",
       desc: "Responsibilities (Java + React)",
       descBullets: [
